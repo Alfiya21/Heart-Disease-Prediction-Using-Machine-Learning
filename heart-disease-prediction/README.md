@@ -109,5 +109,4 @@ The final model demonstrates strong recall and ROC-AUC, making it suitable for m
 **Alfiya Mulla**  
 Data Science & Machine Learning Enthusiast
 
-## Project Structure
 
